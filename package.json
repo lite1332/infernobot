@@ -1,4 +1,4 @@
-"scripts": {
+{
   "name": "Discord-Bot-Maker-Bot",
   "author": "Robert Borghese",
   "start": "bot.js",
